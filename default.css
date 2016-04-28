@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #ccc;
+    text-align: center;
+}
+
+footer {
+    background:#ccc;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding-top:50px;
+    height:50px;
+}
+
+nav {
+    width: 100%;
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    float: left;
+    margin-left: 20px;
+}
+
+nav li {
+    color: ##08c;
+}
+
+
+article {
+    width: 70%;
+    border: 1px solid #ccc;
+}
+
+section {
+    width: 55%;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px 10px;
+    border: 1px solid;
+}
+
